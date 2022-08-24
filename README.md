@@ -1,7 +1,7 @@
 # SWDB_2022
 ![SWDB_2022](/resources/cropped-SummerWorkshop_Header.png)
 
-This is the repository for the course materials for the 2022 Summer Workshop on the Dynamic Brain.
+This is the repository for the course materials for the 2022 Summer Workshop on the Dynamic Brain. But it's my fork!
 
 # Environment Setup
 If you using the jupyterhub we have setup for you, you don't need to do anything, just [login](https://allen-swdb.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FallenInstitute%2Fswdb_2022&urlpath=lab%2Ftree%2Fswdb_2022%2F&branch=main) and you should be able to start working. 
